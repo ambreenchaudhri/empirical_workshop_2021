@@ -1,5 +1,5 @@
 #######################################
-# Printing the time every 20 seconds ##
+# Printing the time every 10 seconds ##
 #######################################
 
 # libraries used
